@@ -51,5 +51,3 @@ jobs:
             --target "$GITHUB_SHA" \
             --title "Build $TAG" \
             --notes "APK de debug gerado automaticamente."
-
-            
